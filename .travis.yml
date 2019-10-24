@@ -15,7 +15,7 @@ addons:
     # GitHub project metadata
     # ** specific to your project **
     project:
-      name: lanhbao/juliet-test-suite
+      name: https://github.com/Lanhbao/juliet-test-suite
       version: 1.0
       description: My Project
 
